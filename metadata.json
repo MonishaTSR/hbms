@@ -1,0 +1,5 @@
+{
+  "name": "MedShift 360 - Hospital Management Dashboard",
+  "description": "A comprehensive and intuitive dashboard for managing hospital operations, including wards, beds, patients, ambulances, and specialists. Built with React, TypeScript, and Tailwind CSS, featuring real-time data visualization and interactive controls.",
+  "requestFramePermissions": []
+}
